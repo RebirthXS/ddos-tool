@@ -1,8 +1,5 @@
-# ddos-tool
-https://rebirthstress.net
-
 # Information
-🔥 rebirthstress.net | The most RELIABLE Stresser | Best API on the market. | Origin Selection & More 🚰
+🔥 https://rebirthstress.net | The most RELIABLE Stresser | Best API on the market. | Origin Selection & More 🚰
 
 <a href="https://ibb.co/9C3VHJm"><img src="https://i.ibb.co/CTsMKqp/pic.png" alt="pic" border="0"></a>
 
